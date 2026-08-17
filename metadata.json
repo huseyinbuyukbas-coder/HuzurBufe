@@ -1,0 +1,6 @@
+{
+  "name": "Huzur Büfe",
+  "description": "Yenibosna Bahçelievler'de Huzur Büfe. Taptaze kavurmalı, sucuklu, kaşarlı tostlar, demli çay, poğaça, börek ve zengin atıştırmalıklar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
